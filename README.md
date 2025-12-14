@@ -38,7 +38,7 @@ that digital fan engagement can act as a leading indicator for ticket demand.
 
 **Skills:** Python, R, forecasting, statistical modeling  
 **Status:** Academic capstone project
-
+https://github.com/dasol41/mlb-attendance-digital-engagement
 ---
 
 ### ⚾ Baseball Hitting Mechanics Research
