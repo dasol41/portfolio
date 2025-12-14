@@ -35,10 +35,11 @@ multi-source datasets into actionable insights for coaches and staff.
 Developed regression and time-series models to forecast MLB attendance using
 team-level attendance data, Google Trends, and Wikipedia page views. Demonstrated
 that digital fan engagement can act as a leading indicator for ticket demand.
+-Github: https://github.com/dasol41/mlb-attendance-digital-engagement
 
 **Skills:** Python, R, forecasting, statistical modeling  
 **Status:** Academic capstone project
-https://github.com/dasol41/mlb-attendance-digital-engagement
+
 ---
 
 ### ⚾ Baseball Hitting Mechanics Research
