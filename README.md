@@ -26,7 +26,7 @@ Designed and optimized SQL-based ETL pipelines integrating HitTrax, Blast Motion
 and Rapsodo data. Built automated data marts and dashboards and translated complex
 multi-source datasets into actionable insights for coaches and staff.
 
--Github: https://github.com/dasol41/replay-baseball-analytics-etl
+**Github**: https://github.com/dasol41/replay-baseball-analytics-etl
 
 **Skills:** SQL, Python, ETL pipelines, applied analytics  
 **Status:** Internship projects
@@ -38,7 +38,7 @@ Developed regression and time-series models to forecast MLB attendance using
 team-level attendance data, Google Trends, and Wikipedia page views. Demonstrated
 that digital fan engagement can act as a leading indicator for ticket demand.
 
--Github: https://github.com/dasol41/mlb-attendance-digital-engagement
+**Github**: https://github.com/dasol41/mlb-attendance-digital-engagement
 
 **Skills:** Python, R, forecasting, statistical modeling  
 **Status:** Academic capstone project
