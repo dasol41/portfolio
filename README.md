@@ -25,6 +25,7 @@ performance tracking.
 Designed and optimized SQL-based ETL pipelines integrating HitTrax, Blast Motion,
 and Rapsodo data. Built automated data marts and dashboards and translated complex
 multi-source datasets into actionable insights for coaches and staff.
+-Github: https://github.com/dasol41/replay-baseball-analytics-etl
 
 **Skills:** SQL, Python, ETL pipelines, applied analytics  
 **Status:** Internship projects
