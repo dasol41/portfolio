@@ -68,6 +68,7 @@ executive-ready KPI summaries and trend analyses.
 - Clean, documented dataset for analysis
 - Strategic insights summary (management-style bullets)
 
+**Github**: https://github.com/dasol41/strategic-planning-project
 **Skills:** Strategic analysis, KPI tracking, SQL-style data modeling, trend analysis, executive reporting  
 
 
