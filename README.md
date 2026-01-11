@@ -53,6 +53,32 @@ importance analysis to identify key biomechanical predictors of contact quality.
 **Skills:** Python, machine learning, feature engineering  
 **Status:** Research project
 
+---
+
+### 🧠 Strategic Planning & KPI Insights (Smart Appliances, U.S.)
+
+Building a strategic planning and insights project focused on tracking progress
+against business goals using market and consumer metrics. The project integrates
+multi-dimensional datasets into a unified analytical structure and produces
+executive-ready KPI summaries and trend analyses.
+
+- Integrating market performance and consumer adoption metrics into a structured dataset
+- Defining KPIs to monitor growth, penetration, and momentum over time
+- Conducting trend and gap analysis to identify strategic opportunities and risks
+- Translating analytical findings into actionable insights for planning discussions
+
+**Planned Deliverables:**
+- KPI tables and trend charts (Revenue, Growth, Penetration)
+- Clean, documented dataset for analysis
+- Strategic insights summary (management-style bullets)
+
+**Skills:** Strategic analysis, KPI tracking, SQL-style data modeling, trend analysis, executive reporting  
+
+**Status:** Personal Project
+
+---
+
 ## 📫 Contact
 - GitHub: https://github.com/dasol41
 - Email: dasol414@gmail.com
+
