@@ -17,7 +17,6 @@ manual report generation time by ~40% and enabled individualized player
 performance tracking.
 
 **Skills:** SQL, Python, reporting automation, data visualization  
-**Status:** Internship project
 
 ---
 
@@ -29,7 +28,6 @@ multi-source datasets into actionable insights for coaches and staff.
 **Github**: https://github.com/dasol41/replay-baseball-analytics-etl
 
 **Skills:** SQL, Python, ETL pipelines, applied analytics  
-**Status:** Internship projects
 
 ---
 
@@ -41,7 +39,6 @@ that digital fan engagement can act as a leading indicator for ticket demand.
 **Github**: https://github.com/dasol41/mlb-attendance-digital-engagement
 
 **Skills:** Python, R, forecasting, statistical modeling  
-**Status:** Academic capstone project
 
 ---
 
@@ -51,7 +48,6 @@ swing data, achieving R² = 0.67 for bat speed estimation. Conducted feature
 importance analysis to identify key biomechanical predictors of contact quality.
 
 **Skills:** Python, machine learning, feature engineering  
-**Status:** Research project
 
 ---
 
@@ -74,7 +70,6 @@ executive-ready KPI summaries and trend analyses.
 
 **Skills:** Strategic analysis, KPI tracking, SQL-style data modeling, trend analysis, executive reporting  
 
-**Status:** Personal Project
 
 ---
 
