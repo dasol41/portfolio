@@ -75,6 +75,23 @@ executive-ready KPI summaries and trend analyses.
 
 ---
 
+### ✈ Global Air Transportation Network Database
+
+Designed a relational database for the global air transportation network to analyze
+connectivity and operational efficiency across airports, airlines, routes, and aircraft.
+Used ER modeling and SQL to define entities and relationships, then wrote queries to
+study route networks, airline operations, and airport hubs.
+
+**Planned Deliverables (in progress):**
+- `schema.sql` with ER-modeled table definitions and keys  
+- Example SQL queries for route, airline, and hub connectivity analysis  
+- PDF poster summarizing methodology, schema, and example insights  
+
+**Skills:** SQL, relational database design, ER modeling, aviation network analysis
+
+
+---
+
 ## 📫 Contact
 - GitHub: https://github.com/dasol41
 - Email: dasol414@gmail.com
