@@ -92,6 +92,24 @@ study route networks, airline operations, and airport hubs.
 
 ---
 
+### 📺 Super Bowl Search Intent & Ad Timing Analysis
+Analyzed Google search behavior around the Super Bowl to understand how different
+audience intents—viewing, advertising, and entertainment—peak at different times
+relative to game day. Framed the Super Bowl as a multi-phase cultural moment rather
+than a single-day event, and identified actionable timing insights for advertisers
+and streaming platforms.
+
+Key findings showed that advertising-related searches peak **3–5 days before game
+day**, while viewing-related searches peak closer to the event, highlighting the
+importance of early campaign activation for maximizing ad impact.
+
+**Github**: https://github.com/dasol41/superbowl-search-intent-analysis
+
+**Skills:** Python, pandas, Google Trends analysis, time-series alignment, data visualization, business insights
+
+
+---
+
 ## 📫 Contact
 - GitHub: https://github.com/dasol41
 - Email: dasol414@gmail.com
