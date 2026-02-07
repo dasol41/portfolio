@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 # Dasol Shin
 
 Computational & Data Science student with a minor in Sports Analytics.
