@@ -25,7 +25,7 @@ Designed and optimized SQL-based ETL pipelines integrating HitTrax, Blast Motion
 and Rapsodo data. Built automated data marts and dashboards and translated complex
 multi-source datasets into actionable insights for coaches and staff.
 
-**Github**: https://github.com/dasol41/replay-baseball-analytics-etl
+**Github:** https://github.com/dasol41/replay-baseball-analytics-etl
 
 **Skills:** SQL, Python, ETL pipelines, applied analytics  
 
@@ -68,7 +68,7 @@ executive-ready KPI summaries and trend analyses.
 - Clean, documented dataset for analysis
 - Strategic insights summary (management-style bullets)
 
-**Github**: https://github.com/dasol41/strategic-planning-project
+**Github:** https://github.com/dasol41/strategic-planning-project
 
 **Skills:** Strategic analysis, KPI tracking, SQL-style data modeling, trend analysis, executive reporting  
 
@@ -82,7 +82,7 @@ connectivity and operational efficiency across airports, airlines, routes, and a
 Used ER modeling and SQL to define entities and relationships, then wrote queries to
 study route networks, airline operations, and airport hubs.
 
-**Planned Deliverables (in progress):**
+**Planned Deliverables :**
 - `schema.sql` with ER-modeled table definitions and keys  
 - Example SQL queries for route, airline, and hub connectivity analysis  
 - PDF poster summarizing methodology, schema, and example insights  
@@ -103,12 +103,30 @@ Key findings showed that advertising-related searches peak **3–5 days before g
 day**, while viewing-related searches peak closer to the event, highlighting the
 importance of early campaign activation for maximizing ad impact.
 
-**Github**: https://github.com/dasol41/superbowl-search-intent-analysis
+**Github:** https://github.com/dasol41/superbowl-search-intent-analysis
 
 **Skills:** Python, pandas, Google Trends analysis, time-series alignment, data visualization, business insights
 
 
 ---
+
+### ⚾ Run Prevention & Pitch Strategy Analysis (Baseball Ops Case Study)
+
+Conducted a pitch-level run prevention analysis evaluating year-over-year arsenal evolution and matchup optimization using 4,000+ pitch observations across two seasons (2024–2025). Designed within a professional baseball operations evaluation framework, emphasizing process-driven metrics and actionable strategic insights.
+
+Analyzed pitch mix restructuring, engineered advanced metrics (Whiff%, CSW%, Chase Rate, Zone%), and identified optimal put-away sequencing strategies. Developed hitter-specific game planning recommendations aligning pitch movement profiles with opponent swing tendencies.
+
+**Key Contributions:**
+
+- Quantified arsenal diversification and swing-and-miss efficiency changes
+- Built custom pitch outcome metrics from raw pitch-level data
+- Evaluated command intent using zone & edge classification
+- Proposed leverage-count pitch optimization adjustments
+- Delivered actionable matchup strategy insights
+
+**Github:** https://github.com/dasol41/run-prevention-analysis
+
+**Skills:** Python, Pandas, feature engineering, sports analytics, baseball strategy modeling
 
 ## 📫 Contact
 - GitHub: https://github.com/dasol41
