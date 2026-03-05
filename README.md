@@ -1,134 +1,43 @@
-# Portfolio
 # Dasol Shin
 
-Computational & Data Science student with a minor in Sports Analytics.
-I build applied analytics projects focused on automation, performance evaluation,
-and data-driven decision-making.
+**Player evaluation & decision support + ops-ready automation.**  
+I turn baseball data into reliable workflows and coach-friendly outputs—combining **SQL/Python data engineering** with **clear, actionable analysis**.
 
-## 🛠 Tools
-Python · R · SQL · Looker Studio · Power BI · scikit-learn · pandas
+---
 
-## 📂 Projects
+## Featured Work (R&D + Ops)
+
+### ⚾ Run Prevention & Pitch Strategy Analysis
+Built a pitch-level framework (4,000+ pitches, 2024–2025) to support **matchup planning and put-away sequencing decisions**.  
+Engineered Whiff%, CSW%, Chase%, Zone/Edge classifications and translated results into hitter-specific recommendations.  
+**Repo:** https://github.com/dasol41/run-prevention-analysis
+
+### 🧩 Replay Baseball Institute — ETL + Tracking Dashboards
+Designed SQL-based ETL pipelines integrating **HitTrax, Blast Motion, and Rapsodo**, built automated data marts and dashboards, and reduced manual reporting time by ~40%.  
+Focused on making multi-source tracking data **usable for coaches and staff**.  
+**Repo:** https://github.com/dasol41/replay-baseball-analytics-etl
 
 ### 🏟 Automated Player Report Dashboard
-Built an automated reporting system that integrates SQL databases and CSV-based
-tracking data into Power BI and Looker Studio dashboards. The workflow reduced
-manual report generation time by ~40% and enabled individualized player
-performance tracking.
-
-**Skills:** SQL, Python, reporting automation, data visualization  
+Built an automated reporting workflow that integrates SQL databases and tracking feeds into **Power BI / Looker Studio** dashboards for individualized player monitoring and consistent weekly reporting.  
+*(Public demo version coming soon via Shiny/Streamlit using public data.)*
 
 ---
 
-### ⚾ Baseball Analytics Internship Projects (Replay Baseball Institute)
-Designed and optimized SQL-based ETL pipelines integrating HitTrax, Blast Motion,
-and Rapsodo data. Built automated data marts and dashboards and translated complex
-multi-source datasets into actionable insights for coaches and staff.
+## Additional Projects
 
-**Github:** https://github.com/dasol41/replay-baseball-analytics-etl
-
-**Skills:** SQL, Python, ETL pipelines, applied analytics  
-
----
-
-### 📈 MLB Fan Engagement & Attendance Forecasting (CDS-492 Capstone)
-Developed regression and time-series models to forecast MLB attendance using
-team-level attendance data, Google Trends, and Wikipedia page views. Demonstrated
-that digital fan engagement can act as a leading indicator for ticket demand.
-
-**Github**: https://github.com/dasol41/mlb-attendance-digital-engagement
-
-**Skills:** Python, R, forecasting, statistical modeling  
+- **Baseball Hitting Mechanics Research** — modeled bat speed from swing data (R²=0.67) and identified biomechanical drivers of contact quality.
+- **MLB Attendance & Fan Engagement Forecasting (Capstone)** — demand forecasting using attendance + Google Trends + Wikipedia pageviews.  
+  Repo: https://github.com/dasol41/mlb-attendance-digital-engagement
+- **Super Bowl Search Intent & Ad Timing Analysis** — timing insights using Google Trends.  
+  Repo: https://github.com/dasol41/superbowl-search-intent-analysis
 
 ---
 
-### ⚾ Baseball Hitting Mechanics Research
-Applied Linear Regression, Random Forest, and Gradient Boosting models to KBO
-swing data, achieving R² = 0.67 for bat speed estimation. Conducted feature
-importance analysis to identify key biomechanical predictors of contact quality.
-
-**Skills:** Python, machine learning, feature engineering  
+## What I’m building next
+**Player Report Hub (Shiny/Streamlit demo):** one-link, coach-friendly player reports (KPI cards, trends, and 1-page export) using public data.
 
 ---
 
-### 🧠 Strategic Planning & KPI Insights (Smart Appliances, U.S.)
-
-Building a strategic planning and insights project focused on tracking progress
-against business goals using market and consumer metrics. The project integrates
-multi-dimensional datasets into a unified analytical structure and produces
-executive-ready KPI summaries and trend analyses.
-
-- Integrating market performance and consumer adoption metrics into a structured dataset
-- Defining KPIs to monitor growth, penetration, and momentum over time
-- Conducting trend and gap analysis to identify strategic opportunities and risks
-- Translating analytical findings into actionable insights for planning discussions
-
-**Planned Deliverables:**
-- KPI tables and trend charts (Revenue, Growth, Penetration)
-- Clean, documented dataset for analysis
-- Strategic insights summary (management-style bullets)
-
-**Github:** https://github.com/dasol41/strategic-planning-project
-
-**Skills:** Strategic analysis, KPI tracking, SQL-style data modeling, trend analysis, executive reporting  
-
-
----
-
-### ✈ Global Air Transportation Network Database
-
-Designed a relational database for the global air transportation network to analyze
-connectivity and operational efficiency across airports, airlines, routes, and aircraft.
-Used ER modeling and SQL to define entities and relationships, then wrote queries to
-study route networks, airline operations, and airport hubs.
-
-**Planned Deliverables :**
-- `schema.sql` with ER-modeled table definitions and keys  
-- Example SQL queries for route, airline, and hub connectivity analysis  
-- PDF poster summarizing methodology, schema, and example insights  
-
-**Skills:** SQL, relational database design, ER modeling, aviation network analysis
-
-
----
-
-### 📺 Super Bowl Search Intent & Ad Timing Analysis
-Analyzed Google search behavior around the Super Bowl to understand how different
-audience intents—viewing, advertising, and entertainment—peak at different times
-relative to game day. Framed the Super Bowl as a multi-phase cultural moment rather
-than a single-day event, and identified actionable timing insights for advertisers
-and streaming platforms.
-
-Key findings showed that advertising-related searches peak **3–5 days before game
-day**, while viewing-related searches peak closer to the event, highlighting the
-importance of early campaign activation for maximizing ad impact.
-
-**Github:** https://github.com/dasol41/superbowl-search-intent-analysis
-
-**Skills:** Python, pandas, Google Trends analysis, time-series alignment, data visualization, business insights
-
-
----
-
-### ⚾ Run Prevention & Pitch Strategy Analysis (Baseball Ops Case Study)
-
-Conducted a pitch-level run prevention analysis evaluating year-over-year arsenal evolution and matchup optimization using 4,000+ pitch observations across two seasons (2024–2025). Designed within a professional baseball operations evaluation framework, emphasizing process-driven metrics and actionable strategic insights.
-
-Analyzed pitch mix restructuring, engineered advanced metrics (Whiff%, CSW%, Chase Rate, Zone%), and identified optimal put-away sequencing strategies. Developed hitter-specific game planning recommendations aligning pitch movement profiles with opponent swing tendencies.
-
-**Key Contributions:**
-
-- Quantified arsenal diversification and swing-and-miss efficiency changes
-- Built custom pitch outcome metrics from raw pitch-level data
-- Evaluated command intent using zone & edge classification
-- Proposed leverage-count pitch optimization adjustments
-- Delivered actionable matchup strategy insights
-
-**Github:** https://github.com/dasol41/run-prevention-analysis
-
-**Skills:** Python, Pandas, feature engineering, sports analytics, baseball strategy modeling
-
-## 📫 Contact
-- GitHub: https://github.com/dasol41
+## Contact
+- GitHub: https://github.com/dasol41  
 - Email: dasol414@gmail.com
-
