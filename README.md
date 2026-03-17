@@ -1,28 +1,26 @@
 # Dasol Shin
 
-**Baseball Operations | Analytics | Player Development**
+**Baseball Operations | Player Development Analytics | Data Workflows**
 
-I build baseball operations workflows that turn tracking and game data into **coach-friendly reports, player development insights, and repeatable decision-support tools.**
+I build baseball operations tools that turn tracking and game data into **coach-friendly reports, player development insights, and repeatable decision-support workflows.**
 
-My work focuses on the intersection of **analytics, player evaluation, player development, and reporting automation**, combining **SQL/Python data engineering with clear communication for coaches and staff.**
-
-Example outputs from baseball operations analytics workflows are shown below.
+My work focuses on the intersection of **player development, analytics, and data engineering**, helping teams monitor performance, communicate insights, and support development decisions.
 
 ---
 
-# Featured Work
+# Example Baseball Operations Outputs
 
 ## Player Development Dashboard
 
 ![Player Dashboard](images/player_dashboard.png)
 
-Example dashboard integrating **bullpen, plyo ball, and pulldown testing data** to monitor player velocity development and compare performance across training types.
+Example dashboard integrating **bullpen, plyo ball, and pulldown testing data** to monitor player velocity development.
 
-Key features include:
+Key features:
 
-- KPI tracking (average velocity, max velocity)
+- Velocity KPI tracking (average & max)
 - Player comparison across training environments
-- Velocity trend monitoring over time
+- Velocity trend monitoring
 - Development classification (Elite / Solid / Developing)
 - Coach-friendly performance summaries
 
@@ -32,103 +30,81 @@ Key features include:
 
 ![Bullpen Report](images/bullpen_report.png)
 
-Example pitching analysis report summarizing bullpen session data including pitch velocity, pitch usage, and strike zone location patterns.
+Example pitching analysis report summarizing bullpen session data.
 
 Insights include:
 
 - Pitch velocity distribution
-- Strike zone location analysis
-- Pitch type usage patterns
+- Strike zone location patterns
+- Pitch type usage
 - Outcome-based velocity comparisons
+
+Designed as a **coach-facing report to support development monitoring.**
 
 ---
 
-# Research & Analytics Projects
+# Baseball Analytics Projects
 
-## ⚾ Run Prevention & Pitch Strategy Analysis
+## Run Prevention & Pitch Strategy Analysis
 
-Built a pitch-level decision-support framework using **4,000+ pitches (2024–2025)** to support matchup planning and put-away sequencing decisions.
+Built a pitch-level decision-support framework using **4,000+ pitches (2024–2025)**.
 
-Metrics engineered include:
+Focus:
+
+- matchup planning
+- put-away pitch sequencing
+- pitch usage analysis
+
+Metrics engineered:
 
 - Whiff%
 - CSW%
 - Chase%
 - Zone / Edge classifications
 
-The analysis translates pitch-level data into **actionable insights for pitch usage and matchup planning.**
-
-Repo:  
+Repo  
 https://github.com/dasol41/run-prevention-analysis
 
 ---
 
-## 🧩 Replay Baseball Institute — ETL + Tracking Dashboards
+## Replay Baseball Institute — Tracking Data ETL
 
-Designed SQL-based ETL pipelines integrating **HitTrax, Blast Motion, and Rapsodo** data.
+Designed SQL pipelines integrating **HitTrax, Blast Motion, and Rapsodo data**.
 
-Built automated data marts and dashboards that reduced manual reporting time by **~40%** while improving accessibility for coaching staff.
+Built automated dashboards and reporting workflows that reduced manual reporting time by **~40%.**
 
-Focus areas:
+Focus:
 
-- Multi-source tracking data integration
-- Automated reporting workflows
-- Player development monitoring dashboards
-- Coach-friendly analytics outputs
+- tracking data integration
+- automated player reporting
+- coach-facing analytics workflows
 
-Repo:  
+Repo  
 https://github.com/dasol41/replay-baseball-analytics-etl
 
 ---
 
 # Additional Projects
 
-## Baseball Hitting Mechanics Research
+### Baseball Hitting Mechanics Research
+Modeled bat speed from swing data (R² = 0.67) to identify biomechanical drivers of contact quality.
 
-Modeled bat speed from swing data (**R² = 0.67**) and identified biomechanical drivers of contact quality.
+### MLB Attendance & Fan Engagement Forecasting
+Demand forecasting using attendance, Google Trends, and Wikipedia pageviews.
 
-Focus:
-
-- swing mechanics modeling
-- performance drivers of contact quality
-- data-driven hitting development insights
-
----
-
-## MLB Attendance & Fan Engagement Forecasting (Capstone)
-
-Demand forecasting using:
-
-- MLB attendance data
-- Google Trends
-- Wikipedia pageviews
-
-Built predictive models to analyze **fan engagement and demand patterns.**
-
-Repo:  
+Repo  
 https://github.com/dasol41/mlb-attendance-digital-engagement
 
 ---
 
-## Super Bowl Search Intent & Ad Timing Analysis
+# Current Focus
 
-Analyzed search trends around Super Bowl advertising to identify optimal timing for audience engagement using Google Trends data.
+Currently building a **Player Report Hub (Shiny / Streamlit demo)** designed to generate:
 
-Repo:  
-https://github.com/dasol41/superbowl-search-intent-analysis
-
----
-
-# What I'm Currently Building
-
-**Player Report Hub (Shiny / Streamlit Demo)**
-
-A one-link player development reporting tool designed to provide coaches with:
-
-- KPI summary cards
-- player performance trends
-- development insights
-- exportable one-page player reports
+- one-page player reports
+- KPI summaries
+- performance trends
+- development insights for coaches
 
 ---
 
@@ -136,19 +112,19 @@ A one-link player development reporting tool designed to provide coaches with:
 
 - Baseball Operations
 - Player Development
-- Hitting / Pitch Strategy
-- Tracking Data Integration
-- Analytics Workflow Automation
+- Hitting & Pitch Strategy
+- Tracking Data Analytics
+- Baseball Analytics Workflows
 
 ---
 
 # Contact
 
-GitHub:  
+GitHub  
 https://github.com/dasol41
 
-Portfolio:  
+Portfolio  
 https://dasol41.github.io/portfolio
 
-Email:  
+Email  
 dasol414@gmail.com
