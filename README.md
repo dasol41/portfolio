@@ -2,98 +2,153 @@
 
 **Baseball Operations | Analytics | Player Development**
 
-I build baseball operations workflows that turn tracking and game data into **coach-friendly reports, player development insights, and repeatable decision-support tools**.
+I build baseball operations workflows that turn tracking and game data into **coach-friendly reports, player development insights, and repeatable decision-support tools.**
 
-My work sits at the intersection of **analytics, player evaluation, player development, and reporting automation** — combining **SQL/Python data engineering** with clear communication for coaches and staff.
+My work focuses on the intersection of **analytics, player evaluation, player development, and reporting automation**, combining **SQL/Python data engineering with clear communication for coaches and staff.**
 
-I’m especially interested in roles involving **baseball operations, player development, and technology-enabled reporting**.
-
----
-
-## What I Bring
-
-- **Baseball analytics workflows** for player evaluation and decision support
-- **Tracking-data integration** across systems such as Rapsodo, Blast Motion, and HitTrax
-- **Coach-friendly reporting** that translates data into actionable takeaways
-- **Ops-minded automation** that reduces manual reporting and improves consistency
-- **Clear communication** through dashboards, written analysis, and structured reporting outputs
+Example outputs from baseball operations analytics workflows are shown below.
 
 ---
 
-## Featured Work
+# Featured Work
 
-### 🧩 Replay Baseball Institute — ETL + Tracking Dashboards
-Designed SQL-based ETL pipelines integrating **HitTrax, Blast Motion, and Rapsodo** into usable reporting workflows for coaches and staff.
+## Player Development Dashboard
 
-- Built automated data marts and dashboards from multi-source player tracking systems
-- Reduced manual reporting time by **~40%**
-- Focused on making fragmented tracking data easier to monitor and act on in player development settings
+![Player Dashboard](images/player_dashboard.png)
 
-**Repo:** [replay-baseball-analytics-etl](https://github.com/dasol41/replay-baseball-analytics-etl)
+Example dashboard integrating **bullpen, plyo ball, and pulldown testing data** to monitor player velocity development and compare performance across training types.
 
----
+Key features include:
 
-### 🏟 Automated Player Report Dashboard
-Built an automated reporting workflow connecting SQL databases and tracking feeds to **Power BI / Looker Studio dashboards** for individualized player monitoring.
-
-- Created consistent weekly reporting workflows for player development use cases
-- Focused on KPI visibility, trend tracking, and communication-ready outputs
-- A public demo version is currently in development using **Shiny/Streamlit + public data**
+- KPI tracking (average velocity, max velocity)
+- Player comparison across training environments
+- Velocity trend monitoring over time
+- Development classification (Elite / Solid / Developing)
+- Coach-friendly performance summaries
 
 ---
 
-### ⚾ Run Prevention & Pitch Strategy Analysis
-Built a pitch-level decision-support framework using **4,000+ pitches (2024–2025)** to support **matchup planning, pitch usage analysis, and put-away sequencing decisions**.
+## Bullpen Testing Report
 
-- Engineered metrics including **Whiff%, CSW%, Chase%, and Zone/Edge classifications**
-- Identified hitter-specific patterns and translated them into practical recommendations
-- Designed the project to reflect how analysts can support on-field planning with clear outputs
+![Bullpen Report](images/bullpen_report.png)
 
-**Repo:** [run-prevention-analysis](https://github.com/dasol41/run-prevention-analysis)
+Example pitching analysis report summarizing bullpen session data including pitch velocity, pitch usage, and strike zone location patterns.
 
----
+Insights include:
 
-## Additional Projects
-
-### Baseball Hitting Mechanics Research
-Modeled bat speed from swing data (**R² = 0.67**) and identified biomechanical factors associated with contact quality.
-
-### MLB Attendance & Fan Engagement Forecasting
-Built a demand forecasting project using attendance, Google Trends, and Wikipedia pageviews to analyze fan engagement patterns.
-
-**Repo:** [mlb-attendance-digital-engagement](https://github.com/dasol41/mlb-attendance-digital-engagement)
-
-### Super Bowl Search Intent & Ad Timing Analysis
-Used Google Trends to study timing effects and audience attention around major sports events.
-
-**Repo:** [superbowl-search-intent-analysis](https://github.com/dasol41/superbowl-search-intent-analysis)
+- Pitch velocity distribution
+- Strike zone location analysis
+- Pitch type usage patterns
+- Outcome-based velocity comparisons
 
 ---
 
-## What I’m Building Next
+# Research & Analytics Projects
 
-### Player Report Hub (Shiny/Streamlit Demo)
-A one-link, coach-friendly player report tool using public data with:
+## ⚾ Run Prevention & Pitch Strategy Analysis
+
+Built a pitch-level decision-support framework using **4,000+ pitches (2024–2025)** to support matchup planning and put-away sequencing decisions.
+
+Metrics engineered include:
+
+- Whiff%
+- CSW%
+- Chase%
+- Zone / Edge classifications
+
+The analysis translates pitch-level data into **actionable insights for pitch usage and matchup planning.**
+
+Repo:  
+https://github.com/dasol41/run-prevention-analysis
+
+---
+
+## 🧩 Replay Baseball Institute — ETL + Tracking Dashboards
+
+Designed SQL-based ETL pipelines integrating **HitTrax, Blast Motion, and Rapsodo** data.
+
+Built automated data marts and dashboards that reduced manual reporting time by **~40%** while improving accessibility for coaching staff.
+
+Focus areas:
+
+- Multi-source tracking data integration
+- Automated reporting workflows
+- Player development monitoring dashboards
+- Coach-friendly analytics outputs
+
+Repo:  
+https://github.com/dasol41/replay-baseball-analytics-etl
+
+---
+
+# Additional Projects
+
+## Baseball Hitting Mechanics Research
+
+Modeled bat speed from swing data (**R² = 0.67**) and identified biomechanical drivers of contact quality.
+
+Focus:
+
+- swing mechanics modeling
+- performance drivers of contact quality
+- data-driven hitting development insights
+
+---
+
+## MLB Attendance & Fan Engagement Forecasting (Capstone)
+
+Demand forecasting using:
+
+- MLB attendance data
+- Google Trends
+- Wikipedia pageviews
+
+Built predictive models to analyze **fan engagement and demand patterns.**
+
+Repo:  
+https://github.com/dasol41/mlb-attendance-digital-engagement
+
+---
+
+## Super Bowl Search Intent & Ad Timing Analysis
+
+Analyzed search trends around Super Bowl advertising to identify optimal timing for audience engagement using Google Trends data.
+
+Repo:  
+https://github.com/dasol41/superbowl-search-intent-analysis
+
+---
+
+# What I'm Currently Building
+
+**Player Report Hub (Shiny / Streamlit Demo)**
+
+A one-link player development reporting tool designed to provide coaches with:
 
 - KPI summary cards
-- trend visualizations
-- individualized report views
-- exportable one-page summaries
+- player performance trends
+- development insights
+- exportable one-page player reports
 
 ---
 
-## Current Interests
+# Interests
 
 - Baseball Operations
 - Player Development
 - Hitting / Pitch Strategy
-- Reporting Automation
-- Decision Support for Coaches and Staff
+- Tracking Data Integration
+- Analytics Workflow Automation
 
 ---
 
-## Contact
+# Contact
 
-- **GitHub:** [dasol41](https://github.com/dasol41)
-- **Portfolio:** [dasol41.github.io/portfolio](https://dasol41.github.io/portfolio)
-- **Email:** dasol414@gmail.com
+GitHub:  
+https://github.com/dasol41
+
+Portfolio:  
+https://dasol41.github.io/portfolio
+
+Email:  
+dasol414@gmail.com
